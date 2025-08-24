@@ -1,7 +1,8 @@
 # 🤖 Chatbot Project
 
-A simple chatbot web application built with **React** and **Vite**.  
-The chatbot provides an interactive UI with a robot avatar and user-friendly input/output messages.
+🚀 [View Live Demo](https://sidd2006.github.io/chatbot-project/)
+
+A simple chatbot built with React + Vite and deployed using GitHub Pages.
 
 ---
 
