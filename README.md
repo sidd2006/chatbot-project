@@ -28,7 +28,7 @@ A simple chatbot built with React + Vite and deployed using GitHub Pages.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/chatbot-project.git
+git clone https://github.com/sidd2006/chatbot-project.git
 cd chatbot-project
 
 ### Install Dependencies
